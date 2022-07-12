@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Mountain_Dew",
+    "name": "Golds moutain dew",
+    "authors": [ "Goldendragon900" ],
+    "description": "A mod that add mountain dew to the game",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
